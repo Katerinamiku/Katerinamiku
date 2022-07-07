@@ -4,7 +4,7 @@
 <h3 align="center">React student from Czech Republic</h3>
 
 
-<p align="center"><img src="http://cconlinejournal.org/brown_mehler/gifs/girlTyping.gif"/> </p>
+<p align="center"><img src="http://cconlinejournal.org/brown_mehler/gifs/girlTyping.gif" width="150"/> </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=katerinamiku&style=flat-square&color=blue" alt=""/></p>
 
@@ -33,10 +33,19 @@ I am a Junior React Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"  title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"  title="Yarn" alt="yarn" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg"  title="VSCode" alt="vscode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"  title="WebStorm" alt="webstorm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="materialUI" alt="MUI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootsrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </p>
 
 ### &nbsp;
