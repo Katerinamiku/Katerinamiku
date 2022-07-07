@@ -14,7 +14,7 @@
 I am a Junior React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Prague.
 
 
-- 📫 How to reach me: 
+📫 How to reach me: 
  <a href="https://www.linkedin.com/in/kate-karpovich-49a57750/"><img width="28px" alt="LinkedIN" title="LinkedIN" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1024px-Linkedin.svg.png?20120426133134"></a>
 &nbsp;
   <a href="https://www.facebook.com/katerina.beregeiko"><img width="28px" alt="Facebook" title="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png"></a>
