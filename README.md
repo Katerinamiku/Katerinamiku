@@ -38,7 +38,6 @@ I am a React/Redux junior developer <img src="https://media.giphy.com/media/WUlp
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"  title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"  title="Yarn" alt="yarn" width="40" height="40"/>&nbsp;
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg"  title="VSCode" alt="VScode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"  title="WebStorm" alt="Webstorm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -50,13 +49,7 @@ I am a React/Redux junior developer <img src="https://media.giphy.com/media/WUlp
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
-
-### &nbsp;
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=katerinamiku&show_icons=true&locale=en&layout=compact" alt="" />
 </p>
-
----
-### :fire: My Stats :
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=katerinamiku&" alt="" /></p>
 
