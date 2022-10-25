@@ -13,7 +13,7 @@
 
 I am a React/Redux junior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> located in Prague.
 <p>Speaking: English, Russian, Czech</p>
-[My Portfolio](https://katerinamiku.github.io/Portfolio_TS/)
+My Portfolio - https://katerinamiku.github.io/Portfolio_TS
 
 📫 How to reach me: 
  <a href="https://www.linkedin.com/in/kate-karpovich-49a57750/"><img width="25px" alt="LinkedIN" title="LinkedIN" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1024px-Linkedin.svg.png?20120426133134"></a>
