@@ -50,7 +50,5 @@ My Portfolio - https://katerinamiku.github.io/Portfolio_TS
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=katerinamiku&show_icons=true&locale=en&layout=compact" alt="" />
-</p>
+
 
